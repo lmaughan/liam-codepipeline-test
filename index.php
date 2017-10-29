@@ -4,7 +4,7 @@
     <head>
         <title>Beanstalk CodeCode Demo</title>
     </head>
-		<body bgcolor = "#BF1530">
+		<body bgcolor = "#BF1532">
 
 				<div align="center">
                 <h1>Welcome to the Demo site</h1>
